@@ -12,7 +12,7 @@
 ## 🚀 Quick Install
 
 ```bash
-pip install speeddrop
+pip install git+https://github.com/MochErik/speeddrop.git
 ```
 
 ---
